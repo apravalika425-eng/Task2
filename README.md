@@ -36,5 +36,8 @@ Highest-sales category: Technology
 Highest-sales region: South
 Highest-sales product among the top five: Phone
 These findings are based on the included synthetic practice dataset, not on actual company sales.
+
+
+
 Conclusion
 The project demonstrates a complete beginner-friendly workflow: load sales data, clean it, analyze performance, create charts, and communicate business insights.
